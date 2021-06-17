@@ -18,7 +18,7 @@ cd ~/Library/Developer/Xcode/UserData/CodeSnippets
 ```
 CodeSnippets 目录为空:
 ```bash
-git clone https://github.com/QMUI/QMUI_iOS_CodeSnippets.git ./
+git clone https://github.com/doge1024/QMUI_iOS_CodeSnippets.git ./
 ```
 CodeSnippets 目录不为空:
 ```bash
